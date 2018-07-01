@@ -2,8 +2,6 @@
 import matplotlib.pyplot as pyplot
 import math
 
-# TODO RED FOR DISABLED LINK
-
 
 class VisNetwork:
     def __init__(self, neurons):
